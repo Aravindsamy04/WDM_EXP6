@@ -83,8 +83,8 @@ highest_rank_score = max(result[1] for result in search_results)
 print("The highest rank cosine score is:", highest_rank_score)
 ```
 ### Output:
-![Screenshot 2024-09-28 142931](https://github.com/user-attachments/assets/3f484584-e5d6-4f23-86fd-316bf38218e9)
 
+![Screenshot 2024-09-28 142931](https://github.com/user-attachments/assets/9fcc9c7e-885b-42a4-b946-10e44eaa5d9f)
 
 
 ### Result:
